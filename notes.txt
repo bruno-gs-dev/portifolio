@@ -1,0 +1,73 @@
+PROJETOS:
+projeto cimu, consorcio (web react): 
+https://cimu-nine.vercel.app/
+
+ui/ux:
+projeto shooters figma:
+https://www.figma.com/design/CcP1tC9vxQIolpuUpHd2g6/Shooters?node-id=0-1&p=f
+
+projeto levetype figma:
+https://www.figma.com/file/a2hRKllClU29L6KOxfM61Z/LandingPage-LeveType?type=design&mode=design&t=Eqqhxtv6YFTnSwco-0
+link para a comunidade: https://www.linkedin.com/company/levetype-community/posts/?feedView=all
+
+projeto blog nutrição figma:
+https://www.figma.com/design/NEhtGZX147pByJbRvo5k02/Landing-Page-Nutri?node-id=0-1
+
+minhas informações:
+Contato
+brunogomesdsilva8@gmail.com
+www.linkedin.com/in/brunogomes-
+061786255 (LinkedIn)
+Principais competências
+Liderança
+Resolução de problemas
+Boas práticas de programação
+Languages
+Inglês (Full Professional)
+Bruno Gomes
+Dev Pleno - Angular | React | Typescript | UI/UX | Tailwindcss
+Fortaleza, Ceará, Brasil
+Resumo
+Olá, sou Bruno!
+Um Desenvolvedor Fullstack com formação em Design Gráfico.
+Desde que mergulhei no universo do desenvolvimento web, fiquei
+encantado com a capacidade de combinar minhas habilidades de
+design com a criação de sites e aplicativos funcionais.
+Agora estou determinado a seguir uma carreira como programador
+para explorar todo o potencial dessa combinação.
+| MINHA STACK |
+DEV
+Angular | React native | Typescript | Tailwindcss | React | Next | Jest
+| Design patterns | Redux | Zustand
+UI/UX
+Figma | whimsical | Adobe Ilustrator | Photoshop
+Experiência
+Atlanta Tecnologia de Informação LTDA.
+Desenvolvedor de software
+dezembro de 2023 - Present (2 anos 4 meses)
+Fortaleza, Ceará, Brasil
+GOL Linhas Aéreas
+Funcionário de aviação
+dezembro de 2021 - maio de 2022 (6 meses)
+Fortaleza, Ceará, Brasil
+Como agente de aeroporto, meu trabalho era atender aos passageiros em
+aeroportos. Minhas responsabilidades incluíam realizar o check-in, lidar
+com bagagens, auxiliar no embarque e desembarque, resolver problemas e
+garantir a segurança.
+Page 1 of 2
+dnata
+Funcionário de aviação
+abril de 2018 - abril de 2021 (3 anos 1 mês)
+Fortaleza, Ceará, Brasil
+Como auxiliar de rampa, meu trabalho envolveu várias tarefas cruciais nosaeroportos. Eu auxiliava no carregamento e descarregamento de bagagens ecarga, além de garantir a limpeza das aeronaves.
+Formação acadêmica
+UNINASSAU
+Análise e Desenvolvimento de Sistemas, Programação de Computadores -Aplicativos Específicos · (março de 2023 - dezembro de 2025)
+Digital College Brasil
+· (2022 - 2023)
+Udemy
+JavaScript e React.js (Básico ao Avançado) · (janeiro de 2021 - fevereiro de2022)
+Gracom Escola de Efeitos Visuais
+Design e Artes Aplicadas · (junho de 2015 - novembro de 2017)
+Page 2 of 2
+
